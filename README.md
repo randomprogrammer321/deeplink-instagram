@@ -62,7 +62,7 @@ To deploy this project run
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/thewisejun)
+- [@thewisejun](https://www.github.com/thewisejun)
 
 
 ## Demo
