@@ -69,4 +69,4 @@ To deploy this project run
 
 Insert gif or link to demo
 
-app.contentmatches.com:8000/instagram/officialcontentmatch
+https://app.contentmatches.com:8000/instagram/officialcontentmatch
